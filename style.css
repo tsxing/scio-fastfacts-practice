@@ -1,0 +1,54 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+table,tr,th{
+  border:1px solid black;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Ibarra Real Nova', serif;
+}
+
+
+body{
+  text-align: center;
+}
+
+h1{
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+}
+
+h4{
+  font-family: 'Raleway', sans-serif;
+}
+
+p{
+  font-family: 'Raleway', sans-serif;
+  margin-left: 25%;
+  margin-right: 25%;
+  line-height: 1.5;
+}
+
+.button{
+  padding-top: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 15px;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  transition: 0.3s;
+  border: solid black 1px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.button:hover{
+  background: black;
+  color: white;
+  cursor: pointer;
+  
+}
