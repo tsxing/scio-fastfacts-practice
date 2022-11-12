@@ -1,6 +1,15 @@
 html, body {
   height: 100%;
   width: 100%;
+  background-color: #FAF9F6;
+}
+
+.box{
+  background-color:white;
+  box-shadow: 5px 5px 8px #D3D3D3, -5px -5px 8px #D3D3D3;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 table,tr,th{
