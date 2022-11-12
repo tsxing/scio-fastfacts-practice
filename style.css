@@ -47,8 +47,8 @@ p{
 }
 
 .button:hover{
-  background: black;
-  color: white;
+  background: #FBFBFB;
+  color: black;
   cursor: pointer;
   -webkit-transform: translateY(-2px);
 	transform: translateY(-2px);
