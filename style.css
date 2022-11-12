@@ -43,12 +43,14 @@ p{
   transition: 0.3s;
   border: solid black 1px;
   text-decoration: none;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .button:hover{
   background: black;
   color: white;
   cursor: pointer;
+  -webkit-transform: translateY(-1px);
+	transform: translateY(-1px);
   
 }
