@@ -63,3 +63,11 @@ p{
 	transform: translateY(-2px);
   
 }
+
+input[type=text] {
+  width: 80%;
+  padding:5 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+}
