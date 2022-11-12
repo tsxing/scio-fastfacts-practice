@@ -36,7 +36,7 @@ const category =  ["Astronomers","Astronauts","Biologists","Chemists","Physicist
 "NASA Missions",
 "Climate","Climate change","Climate zones",
 "Natural Disasters","Severe Weather","Hurricanes","Hurricane Names","Atmosphere layers","Atmosphere wind/currents",
-"Weather Instruments","Weather Forecasting",""Weather Phenomena",
+"Weather Instruments","Weather Forecasting","Weather Phenomena",
 "Eons","Eras","Periods","Geologic times",
 "Capital Cities of Countries",
 "Topographic maps","Topographic Map symbols","Types of Forces (dynamics)",
