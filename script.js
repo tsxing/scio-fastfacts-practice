@@ -1,3 +1,9 @@
+
+
+const alphabet =["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
+
+function reset(){
+const alphabetTemp = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
 const category =  [
 "Astronomers",
 "Astronauts",
@@ -208,11 +214,6 @@ const category =  [
 "Programming languages",
 "Simple Machines",
 "Computers"];
-
-const alphabet =["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
-
-function reset(){
-const alphabetTemp = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
   
 var i = Math.floor((category.length)*Math.random());
 document.getElementById("category1").innerHTML =  category[i];
