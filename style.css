@@ -69,5 +69,7 @@ input[type=text] {
   padding:5 20px;
   margin: 8px 0;
   box-sizing: border-box;
+  font-family: 'Ibarra Real Nova', serif;
   background-color: #f2f2f2;
+
 }
